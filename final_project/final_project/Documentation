@@ -1,0 +1,8 @@
+- Uncheck 'Connect Hardware Keyboard' on iPhone Simulator for context-specific keyboards (e.g. different text fields).
+
+Tag Table:
+
+1   conversionFactorTextField
+2   servingsTextField
+3   conversionFactorPicker
+4   amountTextField
